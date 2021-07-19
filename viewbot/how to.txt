@@ -1,0 +1,4 @@
+first open the file in editor(vs,notedpad,etc)
+Change the directory to your directory where the Driver is
+type the link
+and then run 
